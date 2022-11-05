@@ -30,7 +30,7 @@ public class AverageCalculation {
 		double a = (math + physics + chemical + turkish + history + music) / 6;
 		System.out.println("Your note average: " + a);
 
-		String durum = a > 60 ? "You passed!" : "You failed.";
-		System.out.println(durum);
+		String status = a > 60 ? "You passed!" : "You failed.";
+		System.out.println(status);
 	}
 }
