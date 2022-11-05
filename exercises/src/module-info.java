@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author alpay
+ *
+ */
+module exercises {
+}
